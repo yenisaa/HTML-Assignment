@@ -34,3 +34,8 @@ a{
   padding: 10px;
   border-radius: 10px;
 }
+
+a:hover{
+  transition: 1s ease-out;
+  padding: 15px;
+}
